@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/component/ErrorDialog.qml</file>
+        <file>qml/component/MouseClickedMenu.qml</file>
+        <file>qml/component/PlayerBar.qml</file>
+        <file>qml/VideoButton/OpenFileButton.qml</file>
+        <file>qml/VideoButton/PlayOrPauseButton.qml</file>
+        <file>qml/VideoButton/RewindButton.qml</file>
+        <file>qml/VideoButton/SpeedButton.qml</file>
+        <file>qml/VideoButton/StopButton.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/FileDialog/FilePicker.qml</file>
+        <file>qml/FileDialog/utils.js</file>
+        <file>qml/FileDialog/FileDialogWindow.qml</file>
+        <file>qml/FileDialog/FileBrowser.qml</file>
+        <file>qml/VideoButton/AboutButton.qml</file>
+    </qresource>
+</RCC>

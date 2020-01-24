@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/FileDialog/ic_folder_open_black_48dp.png</file>
+        <file>icons/FileDialog/ic_insert_drive_file_black_48dp.png</file>
+        <file>icons/VideoDialog/menu.png</file>
+        <file>icons/VideoDialog/menu_.png</file>
+        <file>icons/VideoDialog/open.png</file>
+        <file>icons/VideoDialog/open_.png</file>
+        <file>icons/VideoDialog/pause.png</file>
+        <file>icons/VideoDialog/pause_.png</file>
+        <file>icons/VideoDialog/play.png</file>
+        <file>icons/VideoDialog/play_.png</file>
+        <file>icons/VideoDialog/rewind.png</file>
+        <file>icons/VideoDialog/rewind_.png</file>
+        <file>icons/VideoDialog/sound.png</file>
+        <file>icons/VideoDialog/sound_.png</file>
+        <file>icons/VideoDialog/speed.png</file>
+        <file>icons/VideoDialog/speed_.png</file>
+        <file>icons/VideoDialog/stop.png</file>
+        <file>icons/VideoDialog/stop_.png</file>
+        <file>icons/FileDialog/folder.png</file>
+        <file>icons/FileDialog/up.png</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+</RCC>
